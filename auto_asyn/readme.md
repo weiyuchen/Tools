@@ -1,5 +1,5 @@
 # auto_asyn(文件实时同步)
-***
+
 #### 预装模块
 
 + pyinotify
